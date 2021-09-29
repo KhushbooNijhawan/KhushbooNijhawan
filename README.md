@@ -31,7 +31,14 @@ Here are some ideas to get you started:
 - Sharing updates on <a href="https://www.linkedin.com/in/khushboo-nijhawan-745682201/">LinkedIn</a> 💼
 ----------------------------------------------------
 
+----
 
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/KhushbooNijhawan/KhushbooNijhawan/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+------
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KhushbooNijhawan&label=Profile%20views&color=0e75b6&style=flat" alt="KhushbooNijhawan" /> </p>
 
