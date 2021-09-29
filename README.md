@@ -32,8 +32,10 @@ Here are some ideas to get you started:
 ----------------------------------------------------
 
 ----
-
 <p align="center">
+![snake gif]
+https://github.com/KhushbooNijhawan/KhushbooNijhawan/blob/output/github-contribution-grid-snake.gif
+
   <img  src="https://raw.githubusercontent.com/KhushbooNijhawan/KhushbooNijhawan/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
