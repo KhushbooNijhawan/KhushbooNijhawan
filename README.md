@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Khushboo 👋:woman_technologist:
 
 <!--
 **KhushbooNijhawan/KhushbooNijhawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +10,13 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+
+
+- Sharing updates on <a href="https://www.linkedin.com/in/khushboo-nijhawan-745682201/">LinkedIn</a> 💼
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KhushbooNijhawan&label=Profile%20views&color=0e75b6&style=flat" alt="KhushbooNijhawan" /> </p>
