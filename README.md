@@ -29,14 +29,15 @@ Here are some ideas to get you started:
 
 ## Find me around the web 🌎: <img src="https://camo.githubusercontent.com/b0fa06ee100360ae8811a115c133de7848891e3b/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966"  align="left" width="150" height="150" />
 - Sharing updates on <a href="https://www.linkedin.com/in/khushboo-nijhawan-745682201/">LinkedIn</a> 💼
+
+
 ----------------------------------------------------
 
-----
-<p align="center">
-![snake gif]
-https://github.com/KhushbooNijhawan/KhushbooNijhawan/blob/output/github-contribution-grid-snake.gif
 
-  <img  src="https://raw.githubusercontent.com/KhushbooNijhawan/KhushbooNijhawan/main/resources/img/github-contribution-grid-snake.svg"
+<p align="center">
+
+
+  <img  src="https://github.com/KhushbooNijhawan/KhushbooNijhawan/blob/output/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
 
