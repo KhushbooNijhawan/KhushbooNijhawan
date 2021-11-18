@@ -1,6 +1,6 @@
 
 # Hi, I'm Khushboo ! <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
-
+-> Electronics and Data analysis enthusiast⚡ Love spotify , standups and kdramas
 
 <!--
 **KhushbooNijhawan/KhushbooNijhawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
 ### ⚙️ &nbsp;GitHub Analytics
