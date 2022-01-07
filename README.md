@@ -1,7 +1,7 @@
 
 # Hi, I'm Khushboo ! <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
 - Electronics and Data analysis enthusiast :electric_plug:
-- :sparkles: My personality is a mix of punjbai songs , standups and kdramas
+- :sparkles: My personality is a mix of punjabi songs , standups and kdramas
 
 <!--
 **KhushbooNijhawan/KhushbooNijhawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
